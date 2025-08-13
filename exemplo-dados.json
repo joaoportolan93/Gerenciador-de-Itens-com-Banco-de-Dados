@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Smartphone Samsung Galaxy S21",
+    "description": "Smartphone Android com câmera de 64MP, tela de 6.2 polegadas e processador Exynos 2100",
+    "quantity": 1,
+    "price": 2999.90,
+    "category": "eletronicos",
+    "createdAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "name": "Livro Clean Code",
+    "description": "Guia essencial para escrever código limpo e manutenível por Robert C. Martin",
+    "quantity": 2,
+    "price": 89.90,
+    "category": "livros",
+    "createdAt": "2024-01-10T14:20:00.000Z"
+  },
+  {
+    "name": "Tênis Adidas Ultraboost",
+    "description": "Tênis de corrida com tecnologia Boost para máximo conforto e performance",
+    "quantity": 1,
+    "price": 599.90,
+    "category": "esportes",
+    "createdAt": "2024-01-12T09:15:00.000Z"
+  },
+  {
+    "name": "Vaso de Cerâmica",
+    "description": "Vaso decorativo para plantas, tamanho médio, cor azul",
+    "quantity": 3,
+    "price": 45.00,
+    "category": "casa",
+    "createdAt": "2024-01-08T16:45:00.000Z"
+  },
+  {
+    "name": "Camiseta Básica",
+    "description": "Camiseta 100% algodão, cores disponíveis: branco, preto, azul",
+    "quantity": 5,
+    "price": 29.90,
+    "category": "roupas",
+    "createdAt": "2024-01-05T11:30:00.000Z"
+  },
+  {
+    "name": "Mouse Gamer Logitech G502",
+    "description": "Mouse com sensor HERO 25K, 11 botões programáveis e RGB customizável",
+    "quantity": 2,
+    "price": 299.90,
+    "category": "eletronicos",
+    "createdAt": "2024-01-14T13:20:00.000Z"
+  },
+  {
+    "name": "Bola de Futebol Nike",
+    "description": "Bola oficial tamanho 5, material sintético de alta qualidade",
+    "quantity": 4,
+    "price": 89.90,
+    "category": "esportes",
+    "createdAt": "2024-01-11T15:10:00.000Z"
+  },
+  {
+    "name": "Livro JavaScript: O Guia Definitivo",
+    "description": "Referência completa da linguagem JavaScript por David Flanagan",
+    "quantity": 1,
+    "price": 129.90,
+    "category": "livros",
+    "createdAt": "2024-01-09T10:00:00.000Z"
+  },
+  {
+    "name": "Luminária de Mesa",
+    "description": "Luminária LED com braço articulado e controle de intensidade",
+    "quantity": 2,
+    "price": 79.90,
+    "category": "casa",
+    "createdAt": "2024-01-13T14:30:00.000Z"
+  },
+  {
+    "name": "Calça Jeans",
+    "description": "Calça jeans masculina, corte slim, cor azul escuro",
+    "quantity": 3,
+    "price": 89.90,
+    "category": "roupas",
+    "createdAt": "2024-01-07T12:15:00.000Z"
+  }
+]
